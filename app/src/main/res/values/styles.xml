@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">#795548</item>
+    </style>
+
+    <style name="TeamTitles" parent="AppTheme">
+        <item name="android:textColor">@android:color/secondary_text_dark</item>
+        <item name="android:textSize">@dimen/team_titles</item>
+    </style>
+
+    <style name="TeamScores" parent="AppTheme">
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textSize">@dimen/team_scores</item>
+    </style>
+
+    <style name="ButtonText" parent="AppTheme">
+        <item name="android:textColor">@android:color/secondary_text_dark</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>

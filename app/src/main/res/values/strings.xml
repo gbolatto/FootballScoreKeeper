@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="conversion">Conversion</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="safety">Safety</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+</resources>
